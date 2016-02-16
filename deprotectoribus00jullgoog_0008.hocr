@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deprotectoribus00jullgoog_0008.png"; bbox 0 0 3488 5421; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 38 3887 42 4395">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 38 3887 42 4395">
+     <span class='ocr_line' id='line_1_1' title="bbox 38 3887 42 4395; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 38 3887 42 4395; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 962 2488 2994 2544">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 962 2488 2994 2544">
+     <span class='ocr_line' id='line_1_2' title="bbox 962 2488 2994 2544; baseline -0.001 -11"><span class='ocrx_word' id='word_1_2' title='bbox 962 2498 1174 2533; x_wconf 69' lang='lat' dir='ltr'><strong>TOLOSAE.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1216 2513 1270 2519; x_wconf 87' lang='lat'>-</span> <span class='ocrx_word' id='word_1_4' title='bbox 1310 2499 1368 2532; x_wconf 71' lang='lat' dir='ltr'><strong>Ex</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1403 2498 1538 2533; x_wconf 73' lang='lat' dir='ltr'>TYNS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1570 2500 1617 2532; x_wconf 87' lang='grc' dir='ltr'><strong>Α.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1654 2498 1868 2533; x_wconf 68' lang='lat' dir='ltr'><strong>cuAvvm</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1906 2498 1961 2532; x_wconf 81' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1996 2497 2123 2541; x_wconf 56' lang='lat' dir='ltr'><strong>Fas,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2162 2499 2240 2533; x_wconf 78' lang='lat' dir='ltr'>le</span> <span class='ocrx_word' id='word_1_11' title='bbox 2279 2498 2415 2532; x_wconf 67' lang='lat' dir='ltr'><strong>meu</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2450 2499 2538 2532; x_wconf 81' lang='lat' dir='ltr'><strong>DES</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2572 2497 2878 2544; x_wconf 73' lang='lat' dir='ltr'><strong>SALENQL&#39;ES,</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2919 2488 2994 2531; x_wconf 63' lang='grc' dir='ltr'><strong>ΞΒ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3445 870 3448 1605">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3445 870 3448 1605">
+     <span class='ocr_line' id='line_1_3' title="bbox 3445 870 3448 1605; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 3445 870 3448 1605; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
